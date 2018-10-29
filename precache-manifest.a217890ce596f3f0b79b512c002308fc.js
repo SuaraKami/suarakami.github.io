@@ -8,6 +8,10 @@ self.__precacheManifest = [
     "url": "/static/media/soekarno-orasi.c00d2e6d.png"
   },
   {
+    "revision": "d6bf852e18f86f7b32b25963bb796819",
+    "url": "/static/media/logo-w-text.d6bf852e.png"
+  },
+  {
     "revision": "6f73b7d9035e94fd16fe4afa360342ec",
     "url": "/static/media/date-17april.6f73b7d9.png"
   },
@@ -20,19 +24,19 @@ self.__precacheManifest = [
     "url": "/static/js/runtime~main.229c360f.js"
   },
   {
-    "revision": "65bd6daa03537a6f87d2",
-    "url": "/static/js/main.65bd6daa.chunk.js"
+    "revision": "33e7719abf4df35e73ef",
+    "url": "/static/js/main.33e7719a.chunk.js"
   },
   {
-    "revision": "87db8fe15d169c407cb4",
-    "url": "/static/js/1.87db8fe1.chunk.js"
+    "revision": "09617737a553038e4d5b",
+    "url": "/static/js/1.09617737.chunk.js"
   },
   {
-    "revision": "65bd6daa03537a6f87d2",
-    "url": "/static/css/main.3e83666f.chunk.css"
+    "revision": "33e7719abf4df35e73ef",
+    "url": "/static/css/main.afb21ea0.chunk.css"
   },
   {
-    "revision": "7b6dd58f5c31ff4f9f98f8ef4958ca04",
+    "revision": "bf2916e8e29988d389351b0e490749dd",
     "url": "/index.html"
   }
 ];
